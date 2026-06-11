@@ -4,9 +4,9 @@ This project explores Human Activity Recognition (HAR) using smartphone sensor d
 
 ## Team Members
 
-- Annisa Primahapsari (1306623022)
-- Kharisma Maksum Setiadi (1306623057)
-- Raden Satrio Hibatull Rasendriyo (1306623034)
+- Annisa Primahapsari 
+- Kharisma Maksum Setiadi 
+- Raden Satrio Hibatull Rasendriyo 
 
 ## Problem Statement
 
@@ -36,10 +36,11 @@ Dataset source:
 ```text
 ├── images/
 │   ├── all_18_activities_signals.png
+│   ├── comparison.png
 │   ├── output.png
 │   ├── output cnn.png
-│   ├── phone_accel_detailed.png
-│   └── phone_gyro_detailed.png
+│   └── phone_accel_detailed.png
+|   └── phone_gyro_detailed.png
 │
 ├── notebooks/
 │   └── WISDM_HAR_Analysis.ipynb
