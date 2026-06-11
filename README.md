@@ -38,7 +38,7 @@ Dataset source:
 │   ├── all_18_activities_signals.png
 │   ├── comparison.png
 │   ├── output.png
-│   ├── output cnn.png
+│   ├── output_cnn.png
 │   └── phone_accel_detailed.png
 |   └── phone_gyro_detailed.png
 │
@@ -90,7 +90,7 @@ The CNN-LSTM model achieved the highest performance with an accuracy of 69.8%, o
 ### Confusion Matrix
 
 ![RF](images/output.png)
-![CNN](images/output%20cnn.png)
+![CNN](images/output_cnn.png)
 
 ### Model Comparison Performance
 
