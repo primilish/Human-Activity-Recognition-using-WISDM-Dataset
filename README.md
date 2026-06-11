@@ -29,7 +29,7 @@ This project uses the WISDM (Wireless Sensor Data Mining) dataset containing sma
 
 Dataset source:
 
-[wisdm dataset](https://www.kaggle.com/datasets/mashlyn/smartphone-and-smartwatch-activity-and-biometrics)
+[WISDM Dataset](https://www.kaggle.com/datasets/mashlyn/smartphone-and-smartwatch-activity-and-biometrics)
 
 ## Project Structure
 
@@ -89,11 +89,11 @@ The CNN-LSTM model achieved the highest performance with an accuracy of 69.8%, o
 ### Confusion Matrix
 
 ![RF](images/output.png)
-![cnn](images/output%20cnn.png)
+![CNN](images/output%20cnn.png)
 
 ### Model Comparison Performance
 
-![All Results](!!!!!!!!!!)
+![All Results](comparison.png)
 
 ## Technologies Used
 
